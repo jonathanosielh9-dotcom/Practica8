@@ -1,5 +1,5 @@
 
-package jerarquiafiguras;
+package Jerarquia;
 
 public class Pentagono extends FiguraGeometrica {
     private double perimetro;
