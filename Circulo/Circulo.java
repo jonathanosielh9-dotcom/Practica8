@@ -30,11 +30,6 @@ class Circulo extends Figura {
         return Math.PI * Math.pow(radio, 2);
     }
 
-    public double calcularArea(double factorEscala) {
-        double radioEscalado = this.radio * factorEscala;
-        return Math.PI * Math.pow(radioEscalado, 2);
-    }
-
     @Override
     public String toString() {
         return super.toString() + " | Radio: " + radio + " | Area: " + String.format("%.2f", calcularArea());
