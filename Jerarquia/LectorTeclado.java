@@ -1,5 +1,5 @@
 
-package jerarquiafiguras;
+package Jerarquia;
 
 import java.util.Scanner;
 
