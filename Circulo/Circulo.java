@@ -1,5 +1,5 @@
 
-package circuloderivado;
+package Circulo;
 
 class Circulo extends Figura {
     private double radio;
