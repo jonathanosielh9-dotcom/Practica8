@@ -1,5 +1,5 @@
 
-package circuloderivado;
+package Circulo;
 
 class Figura {
     protected String nombre;
