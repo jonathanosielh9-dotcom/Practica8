@@ -1,5 +1,5 @@
 
-package jerarquiafiguras;
+package Jerarquia;
 
 public class Triangulo extends FiguraGeometrica {
     private double base;
