@@ -1,5 +1,5 @@
 
-package jerarquiafiguras;
+package Jerarquia;
 
 public class Cuadrado extends FiguraGeometrica {
     private double lado;
