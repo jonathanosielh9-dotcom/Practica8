@@ -1,5 +1,5 @@
 
-package circuloderivado;
+package Circulo;
 
 import java.util.Scanner;
 
