@@ -1,5 +1,5 @@
 
-package jerarquiafiguras;
+package Jerarquia;
 
 public class FiguraGeometrica {
     protected String nombre;
